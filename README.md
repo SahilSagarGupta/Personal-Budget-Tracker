@@ -1,4 +1,4 @@
-# Personal Budget Tracker
+# Finance Manager
 
 ## Introduction
 The **Personal Budget Tracker** is a simple and efficient tool created using **Microsoft Excel** to help users manage their finances. It allows you to track income, expenses, and savings, providing clear insights into your financial habits. The tracker uses formulas, charts, and conditional formatting to make financial management easy and accessible.
